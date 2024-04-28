@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wX0+pk7UKP8MCQHjv2RdJl+N8C91/SxySzxfTNitJxwZqhmX0drAoYpCbHM0qic66D8Ni19jHYXLGWEoatIhfQ==",
+  "success": true,
+  "projectFilePath": "/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/LiteDBSample.csproj",
+  "expectedPackageFiles": [
+    "/Users/denis/.nuget/packages/litedb/5.0.19/litedb.5.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

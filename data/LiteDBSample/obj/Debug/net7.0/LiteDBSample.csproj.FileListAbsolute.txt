@@ -1,0 +1,17 @@
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/bin/Debug/net7.0/LiteDBSample
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/bin/Debug/net7.0/LiteDBSample.deps.json
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/bin/Debug/net7.0/LiteDBSample.runtimeconfig.json
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/bin/Debug/net7.0/LiteDBSample.dll
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/bin/Debug/net7.0/LiteDBSample.pdb
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/bin/Debug/net7.0/LiteDB.dll
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/LiteDBSample.csproj.AssemblyReference.cache
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/LiteDBSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/LiteDBSample.AssemblyInfoInputs.cache
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/LiteDBSample.AssemblyInfo.cs
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/LiteDBSample.csproj.CoreCompileInputs.cache
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/LiteDBSample.csproj.CopyComplete
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/LiteDBSample.dll
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/refint/LiteDBSample.dll
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/LiteDBSample.pdb
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/LiteDBSample.genruntimeconfig.cache
+/Users/denis/Documents/MIPT_Education/Courses/БИТ/Системы_баз_данных/DB_Sbertech/data/LiteDBSample/obj/Debug/net7.0/ref/LiteDBSample.dll
